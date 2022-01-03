@@ -1,2 +1,2 @@
 ### Hi there 👋
-<img src="./AboutMe.jpg" alt="about me code in javascript"/>
+<img src="./AboutMe.png" alt="about me code in javascript"/>
